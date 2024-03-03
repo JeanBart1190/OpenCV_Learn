@@ -3,4 +3,5 @@ import numpy as np
 from matplotlib import pyplot as plt
 
 def blur_image():
+
     pass
