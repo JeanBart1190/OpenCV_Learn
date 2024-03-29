@@ -5,8 +5,8 @@ import numpy as np
 from matplotlib import pyplot as plt
 
 
-img1 = cv.imread('C:\\Users\\admin1\\Desktop\\c0b7f97433cc21a376dd1097c4004c58227238.png_720w_476h_1e_1c.png')
-img2 = cv.imread('C:\\Users\\admin1\\Desktop\\8b8fabc088b99ca4571b60347edcff1adb85f689.png')
+img1 = cv.imread('..\\src\\Rika_cry.png')
+img2 = cv.imread('..\\src\\Rika_flower.png')
 
 
 
